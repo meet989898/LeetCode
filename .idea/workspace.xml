@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="586896d6-4e9b-42c0-8759-25d057515f74" name="Changes" comment="LeetCode problems. Array problems complete">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/125 - Valid Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/125 - Valid Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167 - Two Sum II.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <workItem from="1706156893327" duration="223000" />
       <workItem from="1706157142314" duration="8000" />
       <workItem from="1706238890461" duration="96000" />
-      <workItem from="1706285061370" duration="945000" />
+      <workItem from="1706285061370" duration="1298000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode problems. Array problems complete">
       <option name="closed" value="true" />

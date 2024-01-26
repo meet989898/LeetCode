@@ -6,6 +6,7 @@ class Solution:
                 new += a.lower()
         return (new == new[::-1])
 
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         left, right = 0, len(s) - 1
@@ -20,11 +21,10 @@ class Solution:
             right -= 1
         return True
 
-    def  alphaNum(self, c):
-        return(ord('A') <= ord(c) <= ord('Z') or
-               ord('a') <= ord(c) <= ord('z') or
-               ord('0') <= ord(c) <= ord('9'))
-
+    def alphaNum(self, c):
+        return (ord('A') <= ord(c) <= ord('Z') or
+                ord('a') <= ord(c) <= ord('z') or
+                ord('0') <= ord(c) <= ord('9'))
 
 
 sol = Solution()
