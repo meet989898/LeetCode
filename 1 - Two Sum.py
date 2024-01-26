@@ -18,6 +18,7 @@ class Solution:
                 return [prevMap[diff], i]
             prevMap[n] = i
 
+l = [1,2,3,4]
 sol = Solution()
 nums = [3,2,4]
 target = 6
