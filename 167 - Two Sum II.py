@@ -18,5 +18,5 @@ class Solution:
 
 sol = Solution()
 numbers = [2, 7, 11, 15]
-target = 9
+target = 18
 print(sol.twoSum(numbers, target))
