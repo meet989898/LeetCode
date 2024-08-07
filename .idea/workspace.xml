@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="586896d6-4e9b-42c0-8759-25d057515f74" name="Changes" comment="LeetCode problems. Array problems complete">
-      <change afterPath="$PROJECT_DIR$/3016 - Minimum Number of Pushes to Type Word II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/76 - Minimum Window Substring.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Python.424 - Longest Repeating Character Replacement.executor": "Run",
     "Python.49 - Group Anagrams.executor": "Run",
     "Python.567 - Permutation in String.executor": "Debug",
+    "Python.76 - Minimum Window Substring.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -104,7 +105,9 @@
       <workItem from="1722779653141" duration="5665000" />
       <workItem from="1722830858316" duration="1295000" />
       <workItem from="1722833362982" duration="772000" />
-      <workItem from="1722943603523" duration="10945000" />
+      <workItem from="1722943603523" duration="11006000" />
+      <workItem from="1722979554720" duration="779000" />
+      <workItem from="1722994073095" duration="7164000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode problems. Array problems complete">
       <option name="closed" value="true" />
@@ -137,15 +140,26 @@
           <line>9</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/76 - Minimum Window Substring.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/76 - Minimum Window Substring.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode_Problems$36___Valid_Sudoku.coverage" NAME="36 - Valid Sudoku Coverage Results" MODIFIED="1705713039904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject3$76___Minimum_Window_Substring.coverage" NAME="76 - Minimum Window Substring Coverage Results" MODIFIED="1723001078574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$2053___Kth_Distinct_String_in_an_Array.coverage" NAME="2053 - Kth Distinct String in an Array Coverage Results" MODIFIED="1722833536833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$217___Contains_Duplicate.coverage" NAME="217 - Contains Duplicate Coverage Results" MODIFIED="1705536710667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Problems$128___Longest_Consecutive_Sequence.coverage" NAME="128 - Longest Consecutive Sequence Coverage Results" MODIFIED="1705791292921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$567___Permutation_in_String.coverage" NAME="567 - Permutation in String Coverage Results" MODIFIED="1722953119197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Problems$128___Longest_Consecutive_Sequence.coverage" NAME="128 - Longest Consecutive Sequence Coverage Results" MODIFIED="1705791292921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$167___Two_Sum_II___Input_Array_Is_Sorted.coverage" NAME="167 - Two Sum II - Input Array Is Sorted Coverage Results" MODIFIED="1705873415006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$3016___Minimum_Number_of_Pushes_to_Type_Word_II.coverage" NAME="3016 - Minimum Number of Pushes to Type Word II Coverage Results" MODIFIED="1722958561998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$125___Valid_Palindrome.coverage" NAME="125 - Valid Palindrome Coverage Results" MODIFIED="1705873323350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
