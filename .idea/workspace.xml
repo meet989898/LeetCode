@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="586896d6-4e9b-42c0-8759-25d057515f74" name="Changes" comment="LeetCode problems. Array problems complete">
-      <change afterPath="$PROJECT_DIR$/273 - Integer to English Words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239 - Sliding Window Maximum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/885 - Spiral Matrix III.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,42 +36,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1 - Two Sum.executor": "Run",
-    "Python.11 - Container With Most Water.executor": "Run",
-    "Python.125 - Valid Palindrome.executor": "Run",
-    "Python.128 - Longest Consecutive Sequence.executor": "Run",
-    "Python.15 - 3Sum.executor": "Run",
-    "Python.167 - Two Sum II - Input Array Is Sorted.executor": "Run",
-    "Python.167 - Two Sum II.executor": "Run",
-    "Python.2053 - Kth Distinct String in an Array.executor": "Run",
-    "Python.217 - Contains Duplicate.executor": "Run",
-    "Python.238 - Product of Array Except Self.executor": "Run",
-    "Python.242 - Valid Anagram.executor": "Run",
-    "Python.271 - Encode and Decode Strings.executor": "Run",
-    "Python.273 - Integer to English Words.executor": "Run",
-    "Python.3 - Longest Substring Without Repeating Characters.executor": "Run",
-    "Python.3016 - Minimum Number of Pushes to Type Word II.executor": "Run",
-    "Python.347 - Top K Frequent Elements.executor": "Run",
-    "Python.36 - Valid Sudoku.executor": "Run",
-    "Python.42 - Trapping Rain Water.executor": "Run",
-    "Python.424 - Longest Repeating Character Replacement.executor": "Run",
-    "Python.49 - Group Anagrams.executor": "Run",
-    "Python.567 - Permutation in String.executor": "Debug",
-    "Python.76 - Minimum Window Substring.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1 - Two Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11 - Container With Most Water.executor&quot;: &quot;Run&quot;,
+    &quot;Python.125 - Valid Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.128 - Longest Consecutive Sequence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15 - 3Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.167 - Two Sum II - Input Array Is Sorted.executor&quot;: &quot;Run&quot;,
+    &quot;Python.167 - Two Sum II.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2053 - Kth Distinct String in an Array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.217 - Contains Duplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.238 - Product of Array Except Self.executor&quot;: &quot;Run&quot;,
+    &quot;Python.239 - Sliding Window Maximum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.242 - Valid Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.271 - Encode and Decode Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.273 - Integer to English Words.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3 - Longest Substring Without Repeating Characters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3016 - Minimum Number of Pushes to Type Word II.executor&quot;: &quot;Run&quot;,
+    &quot;Python.347 - Top K Frequent Elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.36 - Valid Sudoku.executor&quot;: &quot;Run&quot;,
+    &quot;Python.42 - Trapping Rain Water.executor&quot;: &quot;Run&quot;,
+    &quot;Python.424 - Longest Repeating Character Replacement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.49 - Group Anagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Python.567 - Permutation in String.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.76 - Minimum Window Substring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.885 - Spiral Matrix III.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -108,7 +111,9 @@
       <workItem from="1722833362982" duration="772000" />
       <workItem from="1722943603523" duration="11006000" />
       <workItem from="1722979554720" duration="779000" />
-      <workItem from="1722994073095" duration="12088000" />
+      <workItem from="1722994073095" duration="12144000" />
+      <workItem from="1723120116603" duration="5434000" />
+      <workItem from="1723194930589" duration="1798000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode problems. Array problems complete">
       <option name="closed" value="true" />
@@ -155,27 +160,29 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LeetCode_Problems$36___Valid_Sudoku.coverage" NAME="36 - Valid Sudoku Coverage Results" MODIFIED="1705713039904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$76___Minimum_Window_Substring.coverage" NAME="76 - Minimum Window Substring Coverage Results" MODIFIED="1723001078574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$2053___Kth_Distinct_String_in_an_Array.coverage" NAME="2053 - Kth Distinct String in an Array Coverage Results" MODIFIED="1722833536833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject3$217___Contains_Duplicate.coverage" NAME="217 - Contains Duplicate Coverage Results" MODIFIED="1705536710667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject3$567___Permutation_in_String.coverage" NAME="567 - Permutation in String Coverage Results" MODIFIED="1722953119197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$128___Longest_Consecutive_Sequence.coverage" NAME="128 - Longest Consecutive Sequence Coverage Results" MODIFIED="1705791292921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Problems$167___Two_Sum_II___Input_Array_Is_Sorted.coverage" NAME="167 - Two Sum II - Input Array Is Sorted Coverage Results" MODIFIED="1705873415006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject3$3016___Minimum_Number_of_Pushes_to_Type_Word_II.coverage" NAME="3016 - Minimum Number of Pushes to Type Word II Coverage Results" MODIFIED="1722958561998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Problems$125___Valid_Palindrome.coverage" NAME="125 - Valid Palindrome Coverage Results" MODIFIED="1705873323350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$1___Two_Sum.coverage" NAME="1 - Two Sum Coverage Results" MODIFIED="1705548511003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$424___Longest_Repeating_Character_Replacement.coverage" NAME="424 - Longest Repeating Character Replacement Coverage Results" MODIFIED="1722950026703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject3$885___Spiral_Matrix_III.coverage" NAME="885 - Spiral Matrix III Coverage Results" MODIFIED="1723134797424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$271___Encode_and_Decode_Strings.coverage" NAME="271 - Encode and Decode Strings Coverage Results" MODIFIED="1705786961329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject3$239___Sliding_Window_Maximum.coverage" NAME="239 - Sliding Window Maximum Coverage Results" MODIFIED="1723204871988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$238___Product_of_Array_Except_Self.coverage" NAME="238 - Product of Array Except Self Coverage Results" MODIFIED="1705638878358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$15___3Sum.coverage" NAME="15 - 3Sum Coverage Results" MODIFIED="1721670093898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$3___Longest_Substring_Without_Repeating_Characters.coverage" NAME="3 - Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1722831560710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject3$11___Container_With_Most_Water.coverage" NAME="11 - Container With Most Water Coverage Results" MODIFIED="1722773769431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Problems$242___Valid_Anagram.coverage" NAME="242 - Valid Anagram Coverage Results" MODIFIED="1705538818637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Problems$49___Group_Anagrams.coverage" NAME="49 - Group Anagrams Coverage Results" MODIFIED="1705618118492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Problems$347___Top_K_Frequent_Elements.coverage" NAME="347 - Top K Frequent Elements Coverage Results" MODIFIED="1705626178841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$273___Integer_to_English_Words.coverage" NAME="273 - Integer to English Words Coverage Results" MODIFIED="1723018434706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject3$42___Trapping_Rain_Water.coverage" NAME="42 - Trapping Rain Water Coverage Results" MODIFIED="1722783455055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Problems$49___Group_Anagrams.coverage" NAME="49 - Group Anagrams Coverage Results" MODIFIED="1705618118492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$167___Two_Sum_II.coverage" NAME="167 - Two Sum II Coverage Results" MODIFIED="1706504212995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Problems$36___Valid_Sudoku.coverage" NAME="36 - Valid Sudoku Coverage Results" MODIFIED="1705713039904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject3$217___Contains_Duplicate.coverage" NAME="217 - Contains Duplicate Coverage Results" MODIFIED="1705536710667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject3$567___Permutation_in_String.coverage" NAME="567 - Permutation in String Coverage Results" MODIFIED="1722953119197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Problems$167___Two_Sum_II___Input_Array_Is_Sorted.coverage" NAME="167 - Two Sum II - Input Array Is Sorted Coverage Results" MODIFIED="1705873415006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject3$3016___Minimum_Number_of_Pushes_to_Type_Word_II.coverage" NAME="3016 - Minimum Number of Pushes to Type Word II Coverage Results" MODIFIED="1722958561998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Problems$125___Valid_Palindrome.coverage" NAME="125 - Valid Palindrome Coverage Results" MODIFIED="1705873323350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject3$11___Container_With_Most_Water.coverage" NAME="11 - Container With Most Water Coverage Results" MODIFIED="1722773769431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Problems$347___Top_K_Frequent_Elements.coverage" NAME="347 - Top K Frequent Elements Coverage Results" MODIFIED="1705626178841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Problems$242___Valid_Anagram.coverage" NAME="242 - Valid Anagram Coverage Results" MODIFIED="1705538818637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject3$42___Trapping_Rain_Water.coverage" NAME="42 - Trapping Rain Water Coverage Results" MODIFIED="1722783455055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
