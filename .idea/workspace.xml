@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="586896d6-4e9b-42c0-8759-25d057515f74" name="Changes" comment="LeetCode problems. Array problems complete">
+      <change afterPath="$PROJECT_DIR$/959 - Regions Cut By Slashes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/840 - Magic Squares In Grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/840 - Magic Squares In Grid.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +62,7 @@
     "Python.76 - Minimum Window Substring.executor": "Run",
     "Python.840 - Magic Squares In Grid.executor": "Run",
     "Python.885 - Spiral Matrix III.executor": "Run",
+    "Python.959 - Regions Cut By Slashes.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -113,7 +114,8 @@
       <workItem from="1722979554720" duration="779000" />
       <workItem from="1722994073095" duration="12144000" />
       <workItem from="1723120116603" duration="5434000" />
-      <workItem from="1723194930589" duration="8602000" />
+      <workItem from="1723194930589" duration="10055000" />
+      <workItem from="1723270514107" duration="5226000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode problems. Array problems complete">
       <option name="closed" value="true" />
@@ -168,14 +170,15 @@
     <SUITE FILE_PATH="coverage/pythonProject3$885___Spiral_Matrix_III.coverage" NAME="885 - Spiral Matrix III Coverage Results" MODIFIED="1723134797424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$271___Encode_and_Decode_Strings.coverage" NAME="271 - Encode and Decode Strings Coverage Results" MODIFIED="1705786961329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$239___Sliding_Window_Maximum.coverage" NAME="239 - Sliding Window Maximum Coverage Results" MODIFIED="1723204871988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject3$840___Magic_Squares_In_Grid.coverage" NAME="840 - Magic Squares In Grid Coverage Results" MODIFIED="1723213226812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject3$840___Magic_Squares_In_Grid.coverage" NAME="840 - Magic Squares In Grid Coverage Results" MODIFIED="1723214152048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$238___Product_of_Array_Except_Self.coverage" NAME="238 - Product of Array Except Self Coverage Results" MODIFIED="1705638878358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$15___3Sum.coverage" NAME="15 - 3Sum Coverage Results" MODIFIED="1721670093898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$3___Longest_Substring_Without_Repeating_Characters.coverage" NAME="3 - Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1722831560710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject3$273___Integer_to_English_Words.coverage" NAME="273 - Integer to English Words Coverage Results" MODIFIED="1723018434706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$49___Group_Anagrams.coverage" NAME="49 - Group Anagrams Coverage Results" MODIFIED="1705618118492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject3$273___Integer_to_English_Words.coverage" NAME="273 - Integer to English Words Coverage Results" MODIFIED="1723018434706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$167___Two_Sum_II.coverage" NAME="167 - Two Sum II Coverage Results" MODIFIED="1706504212995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$36___Valid_Sudoku.coverage" NAME="36 - Valid Sudoku Coverage Results" MODIFIED="1705713039904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject3$959___Regions_Cut_By_Slashes.coverage" NAME="959 - Regions Cut By Slashes Coverage Results" MODIFIED="1723313158339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$217___Contains_Duplicate.coverage" NAME="217 - Contains Duplicate Coverage Results" MODIFIED="1705536710667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$567___Permutation_in_String.coverage" NAME="567 - Permutation in String Coverage Results" MODIFIED="1722953119197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$167___Two_Sum_II___Input_Array_Is_Sorted.coverage" NAME="167 - Two Sum II - Input Array Is Sorted Coverage Results" MODIFIED="1705873415006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
