@@ -40,5 +40,5 @@ class Solution:
 
 
 sol = Solution()
-s = "()"
+s = "((({{((){({})})}})))"
 print(sol.isValid(s))
