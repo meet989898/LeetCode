@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="586896d6-4e9b-42c0-8759-25d057515f74" name="Changes" comment="LeetCode problems. Array problems complete">
-      <change afterPath="$PROJECT_DIR$/2022 - Convert 1D Array Into 2D Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="586896d6-4e9b-42c0-8759-25d057515f74" name="Changes" comment="LeetCode problems. Array problems complete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +128,7 @@
       <workItem from="1724811260176" duration="600000" />
       <workItem from="1724973642912" duration="89000" />
       <workItem from="1724987739189" duration="609000" />
-      <workItem from="1725220003312" duration="703000" />
+      <workItem from="1725220003312" duration="1222000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode problems. Array problems complete">
       <option name="closed" value="true" />
