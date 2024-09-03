@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="586896d6-4e9b-42c0-8759-25d057515f74" name="Changes" comment="LeetCode problems. Array problems complete" />
+    <list default="true" id="586896d6-4e9b-42c0-8759-25d057515f74" name="Changes" comment="LeetCode problems. Array problems complete">
+      <change afterPath="$PROJECT_DIR$/1945 - Sum of Digits of String After Convert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +45,8 @@
     "Python.1568 - Minimum Number of Days to Disconnect Island.executor": "Run",
     "Python.167 - Two Sum II - Input Array Is Sorted.executor": "Run",
     "Python.167 - Two Sum II.executor": "Run",
+    "Python.1894 - Find the Student that Will Replace the Chalk.executor": "Run",
+    "Python.1945 - Sum of Digits of String After Convert.executor": "Run",
     "Python.20 - Valid Parentheses.executor": "Run",
     "Python.2022 - Convert 1D Array Into 2D Array.executor": "Run",
     "Python.2053 - Kth Distinct String in an Array.executor": "Run",
@@ -129,6 +134,9 @@
       <workItem from="1724973642912" duration="89000" />
       <workItem from="1724987739189" duration="609000" />
       <workItem from="1725220003312" duration="1222000" />
+      <workItem from="1725252320944" duration="902000" />
+      <workItem from="1725291422208" duration="9000" />
+      <workItem from="1725337597771" duration="1005000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode problems. Array problems complete">
       <option name="closed" value="true" />
@@ -191,6 +199,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Problems$271___Encode_and_Decode_Strings.coverage" NAME="271 - Encode and Decode Strings Coverage Results" MODIFIED="1705786961329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$239___Sliding_Window_Maximum.coverage" NAME="239 - Sliding Window Maximum Coverage Results" MODIFIED="1723204871988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$840___Magic_Squares_In_Grid.coverage" NAME="840 - Magic Squares In Grid Coverage Results" MODIFIED="1723214152048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject3$1894___Find_the_Student_that_Will_Replace_the_Chalk.coverage" NAME="1894 - Find the Student that Will Replace the Chalk Coverage Results" MODIFIED="1725252811283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$238___Product_of_Array_Except_Self.coverage" NAME="238 - Product of Array Except Self Coverage Results" MODIFIED="1705638878358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$15___3Sum.coverage" NAME="15 - 3Sum Coverage Results" MODIFIED="1721670093898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$3___Longest_Substring_Without_Repeating_Characters.coverage" NAME="3 - Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1722831560710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
