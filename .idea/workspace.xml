@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="586896d6-4e9b-42c0-8759-25d057515f74" name="Changes" comment="LeetCode problems. Array problems complete" />
+    <list default="true" id="586896d6-4e9b-42c0-8759-25d057515f74" name="Changes" comment="LeetCode problems. Array problems complete">
+      <change afterPath="$PROJECT_DIR$/155 - Min Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 - Generate Parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/739 - Daily Temperatures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/84 - Largest Rectangle in Histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/853 - Car Fleet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +57,7 @@
     "Python.2053 - Kth Distinct String in an Array.executor": "Run",
     "Python.2109 - Adding Spaces to a String.executor": "Run",
     "Python.217 - Contains Duplicate.executor": "Run",
+    "Python.22 - Generate Parentheses.executor": "Run",
     "Python.238 - Product of Array Except Self.executor": "Run",
     "Python.239 - Sliding Window Maximum.executor": "Run",
     "Python.241 - Different Ways to Add Parentheses.executor": "Run",
@@ -66,8 +74,11 @@
     "Python.49 - Group Anagrams.executor": "Run",
     "Python.564 - Find the Closest Palindrome.executor": "Run",
     "Python.567 - Permutation in String.executor": "Debug",
+    "Python.739 - Daily Temperatures.executor": "Run",
     "Python.76 - Minimum Window Substring.executor": "Run",
+    "Python.84 - Largest Rectangle in Histogram.executor": "Run",
     "Python.840 - Magic Squares In Grid.executor": "Run",
+    "Python.853 - Car Fleet.executor": "Run",
     "Python.884 - Uncommon Words from Two Sentences.executor": "Run",
     "Python.885 - Spiral Matrix III.executor": "Run",
     "Python.959 - Regions Cut By Slashes.executor": "Run",
@@ -146,6 +157,8 @@
       <workItem from="1726714075329" duration="222000" />
       <workItem from="1733187765425" duration="1634000" />
       <workItem from="1733463068829" duration="1133000" />
+      <workItem from="1738036010622" duration="2740000" />
+      <workItem from="1738209719304" duration="3292000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode problems. Array problems complete">
       <option name="closed" value="true" />
@@ -199,13 +212,15 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject3$76___Minimum_Window_Substring.coverage" NAME="76 - Minimum Window Substring Coverage Results" MODIFIED="1723001078574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$2053___Kth_Distinct_String_in_an_Array.coverage" NAME="2053 - Kth Distinct String in an Array Coverage Results" MODIFIED="1722833536833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject3$2022___Convert_1D_Array_Into_2D_Array.coverage" NAME="2022 - Convert 1D Array Into 2D Array Coverage Results" MODIFIED="1725220700254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$884___Uncommon_Words_from_Two_Sentences.coverage" NAME="884 - Uncommon Words from Two Sentences Coverage Results" MODIFIED="1726538726731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject3$2022___Convert_1D_Array_Into_2D_Array.coverage" NAME="2022 - Convert 1D Array Into 2D Array Coverage Results" MODIFIED="1725220700254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$128___Longest_Consecutive_Sequence.coverage" NAME="128 - Longest Consecutive Sequence Coverage Results" MODIFIED="1705791292921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$20___Valid_Parentheses.coverage" NAME="20 - Valid Parentheses Coverage Results" MODIFIED="1723398796163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$1___Two_Sum.coverage" NAME="1 - Two Sum Coverage Results" MODIFIED="1705548511003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$424___Longest_Repeating_Character_Replacement.coverage" NAME="424 - Longest Repeating Character Replacement Coverage Results" MODIFIED="1722950026703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$84___Largest_Rectangle_in_Histogram.coverage" NAME="84 - Largest Rectangle in Histogram Coverage Results" MODIFIED="1738214044887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$885___Spiral_Matrix_III.coverage" NAME="885 - Spiral Matrix III Coverage Results" MODIFIED="1723134797424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$853___Car_Fleet.coverage" NAME="853 - Car Fleet Coverage Results" MODIFIED="1738212032417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$271___Encode_and_Decode_Strings.coverage" NAME="271 - Encode and Decode Strings Coverage Results" MODIFIED="1705786961329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$239___Sliding_Window_Maximum.coverage" NAME="239 - Sliding Window Maximum Coverage Results" MODIFIED="1723204871988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$840___Magic_Squares_In_Grid.coverage" NAME="840 - Magic Squares In Grid Coverage Results" MODIFIED="1723214152048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -218,6 +233,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Problems$49___Group_Anagrams.coverage" NAME="49 - Group Anagrams Coverage Results" MODIFIED="1705618118492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$273___Integer_to_English_Words.coverage" NAME="273 - Integer to English Words Coverage Results" MODIFIED="1724987748795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$167___Two_Sum_II.coverage" NAME="167 - Two Sum II Coverage Results" MODIFIED="1706504212995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$739___Daily_Temperatures.coverage" NAME="739 - Daily Temperatures Coverage Results" MODIFIED="1738210551241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$36___Valid_Sudoku.coverage" NAME="36 - Valid Sudoku Coverage Results" MODIFIED="1705713039904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$959___Regions_Cut_By_Slashes.coverage" NAME="959 - Regions Cut By Slashes Coverage Results" MODIFIED="1723313158339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$217___Contains_Duplicate.coverage" NAME="217 - Contains Duplicate Coverage Results" MODIFIED="1705536710667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -229,6 +245,7 @@
     <SUITE FILE_PATH="coverage/pythonProject3$2554___Maximum_Number_of_Integers_to_Choose_From_a_Range_I.coverage" NAME="2554 - Maximum Number of Integers to Choose From a Range I Coverage Results" MODIFIED="1733463396201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$241___Different_Ways_to_Add_Parentheses.coverage" NAME="241 - Different Ways to Add Parentheses Coverage Results" MODIFIED="1726714262537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$2109___Adding_Spaces_to_a_String.coverage" NAME="2109 - Adding Spaces to a String Coverage Results" MODIFIED="1733187986413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$22___Generate_Parentheses.coverage" NAME="22 - Generate Parentheses Coverage Results" MODIFIED="1738209818701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$11___Container_With_Most_Water.coverage" NAME="11 - Container With Most Water Coverage Results" MODIFIED="1722773769431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject3$564___Find_the_Closest_Palindrome.coverage" NAME="564 - Find the Closest Palindrome Coverage Results" MODIFIED="1724458472801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Problems$347___Top_K_Frequent_Elements.coverage" NAME="347 - Top K Frequent Elements Coverage Results" MODIFIED="1705626178841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
