@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="586896d6-4e9b-42c0-8759-25d057515f74" name="Changes" comment="LeetCode problems. Array problems complete">
-      <change afterPath="$PROJECT_DIR$/104 - Maximum Depth of Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1726 - Tuple with Same Product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1790 - Check if One String Swap Can Make Strings Equal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/226 - Invert Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/110 - Balanced Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/543 - Diameter of Binary Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +167,7 @@
       <workItem from="1738209719304" duration="4838000" />
       <workItem from="1738297392770" duration="12520000" />
       <workItem from="1738724568604" duration="2366000" />
-      <workItem from="1738803379410" duration="655000" />
+      <workItem from="1738803379410" duration="1921000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode problems. Array problems complete">
       <option name="closed" value="true" />
