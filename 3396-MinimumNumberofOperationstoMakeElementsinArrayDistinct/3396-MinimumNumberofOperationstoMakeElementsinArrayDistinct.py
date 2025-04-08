@@ -1,10 +1,14 @@
-# Last updated: 4/7/2025, 11:23:15 PM
+# Last updated: 4/7/2025, 11:23:47 PM
 class Solution:
     def minimumOperations(self, nums: List[int]) -> int:
-        
-        seen = [False] * 101
-        for i in range(len(nums) - 1, -1, -1):
-            if seen[nums[i]]:
+        # c = 0
+        # while len(list(set(nums)))!=len(nums):
+        #     nums = nums[3:]
+        #     c+=1
+        # return c
+        seen = set()
+        for i in range(len(nums) - 1,  -1, -1):
+            if nums[i] in seen:
                 return i // 3 + 1
-            seen[nums[i]] = True
+            seen.add(nums[i])
         return 0
