@@ -1,4 +1,4 @@
-# Last updated: 6/17/2025, 11:39:05 PM
+# Last updated: 6/17/2025, 11:40:12 PM
 class Solution:
     def divideArray(self, nums: List[int], k: int) -> List[List[int]]:
 
@@ -8,7 +8,7 @@ class Solution:
         
         nums.sort()
 
-        for i in range(0, len(nums), 3):
+        for i in range(0, n, 3):
             num1, num2, num3 = nums[i], nums[i + 1], nums[i + 2]
 
             if num3 - num1 <= k:
